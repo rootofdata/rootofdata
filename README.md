@@ -9,7 +9,6 @@
 - 🎊 I'm interested in Data MuchineLearning & Data Engineering
 - 📜 If you're curious about my blog, come on in! 👇
 - 🔧tech blog: https://honeyofdata.tistory.com/
-#- 🌈daily blog: https://blog.naver.com/
 
 ####  Tech stack
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=white"/></a>
