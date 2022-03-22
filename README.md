@@ -20,7 +20,7 @@
 <a href="https://github.com/rootofdata" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yw9330)](https://solved.ac/profile/dudtjr4915)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtjr4915)](https://solved.ac/profile/dudtjr4915)
 
 ![Rootofdata's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootofdata&show_icons=true&theme=vue)
 
