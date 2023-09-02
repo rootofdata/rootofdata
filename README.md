@@ -14,7 +14,9 @@
 
 ### 📬 Contacts
 
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.linkedin.com/in/youngsukseo1015)](www.linkedin.com/in/youngsukseo1015) [![Linkedin Badge](#0A66C2)](https://www.facebook.com/profile.php?id=100005255884099) [![instagram](https://img.shields.io/badge/instagram-EC036A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/seoyoungsuk_)](https://www.instagram.com/seoyoungsuk_/) [![naver](https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/dudtjr4915)](https://blog.naver.com/dudtjr4915)
+[![Linkedin](#0A66C2)](www.linkedin.com/in/youngsukseo1015) 
+[![instagram](https://img.shields.io/badge/instagram-EC036A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/seoyoungsuk_)](https://www.instagram.com/seoyoungsuk_/) 
+[![naver](https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/dudtjr4915)](https://blog.naver.com/dudtjr4915)
 
 <!--
 <a href="https://github.com/rootofdata" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
