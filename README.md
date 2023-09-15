@@ -4,7 +4,7 @@
 - 🎊 I'm interested in Data ML & Data Engineering
 - 🔭 I’m currently working on SamsungSDS
 - 📜 If you're curious about my blog / Linkedin, come on in! 👇
-- tech blog : https://honeyofdata.tistory.com/
+- tech blog : https://honeyofdata.tistory.com/ | https://blog.naver.com/dudtjr4915
 - Linkedin : www.linkedin.com/in/youngsukseo1015
 
 ###  Tech stack
