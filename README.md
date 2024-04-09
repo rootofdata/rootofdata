@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 📖 I was studying Mathematics & Statistics in Soongsil university
 - 🎊 I'm interested in Data ML & AI
-- 🔭 I’m currently working on SamsungSDS
+- 🔭 I’m currently finding a job
 - 📜 If you're curious about my blog / Linkedin, come on in! 👇
 - tech blog : https://honeyofdata.tistory.com/ , https://blog.naver.com/dudtjr4915/
 - Linkedin : www.linkedin.com/in/youngsukseo1015
