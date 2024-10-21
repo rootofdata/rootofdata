@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 🚀 **Exploring the world of Data Science and AI**  
+💼 Currently working as an **AI Consultant**, helping businesses unlock the potential of AI  
 🎓 Studied **Mathematics & Statistics** at **Soongsil University**  
-🎯 Currently on the lookout for exciting opportunities in **ML & AI**  
-🎉 Passionate about building things that make data speak 📊
+🎯 Always seeking new opportunities in **ML & AI** to create impactful solutions  
+🎉 Passionate about building things that make data speak 📊  
 
 **Where to find me**  
 - **Tech Blog:** [Honey of Data](https://honeyofdata.tistory.com/) | [Naver Blog](https://blog.naver.com/dudtjr4915/)  
