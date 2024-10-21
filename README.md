@@ -1,9 +1,8 @@
-### Hi there 👋
+### Youngsuk's Github 👋
 
-🚀 **Exploring the world of Data Science and AI**  
+🚀 **Exploring the world of Data Science and AI**   
 💼 Currently working as an **AI Consultant**, helping businesses unlock the potential of AI  
-🎓 Studied **Mathematics & Statistics** at **Soongsil University**  
-🎯 Always seeking new opportunities in **ML & AI** to create impactful solutions  
+🎓 Bachelor's Degree in **Mathematics & Statistics** at **Soongsil University**   
 🎉 Passionate about building things that make data speak 📊  
 
 ### Where to find me  
