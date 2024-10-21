@@ -7,8 +7,8 @@
 🎉 Passionate about building things that make data speak 📊  
 
 **Where to find me**  
-- **Tech Blog:** [Honey of Data](https://honeyofdata.tistory.com/) | [Naver Blog](https://blog.naver.com/dudtjr4915/)  
-- **LinkedIn:** [linkedin.com/in/youngsukseo1015](https://www.linkedin.com/in/youngsukseo1015/)  
+- **Tech Blog:** [Tistory](https://honeyofdata.tistory.com/) | [naver](https://blog.naver.com/dudtjr4915/)  
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/youngsukseo1015/)  
 
 
 📊 **GitHub Stats**  
@@ -41,8 +41,3 @@
 
 <!--
  **rootofdata/rootofdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Kotra for Data Research and analysis.
