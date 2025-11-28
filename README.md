@@ -14,9 +14,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white) ![tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![keras](https://img.shields.io/badge/keras-c90000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=Folium&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv5-149EF2?style=flat&logo=YOLO&logoColor=white) ![R](https://img.shields.io/badge/R-A8B9CC?style=flat-square&logo=R&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 
 ### History
-- Samsung SDS
-- KOTRA
-- Lotte
+- Samsung SDS (22.11 ~ 23.11)
+- KOTRA (23.11 ~ 24.01)
+- LotteInnovate (24.09 ~)
 
 
 ### 💡 Fun fact:
