@@ -1,6 +1,6 @@
 ## Youngsuk's Github Readme 👋
 
-### **AI Consultant & Proeject Manager (w/ Develop AI Systems)**
+### **AI Consultant & Project Manager (w/ Develop AI Systems)**
 Exploring how **Generative AI** transforms real businesses.  
 Currently working as an **AI Consultant / PM**, designing and delivering solutions across **LLM, Vision, and Data Intelligence**.
 B.S. in **Mathematics & AI Statistics** @ Soongsil University  
@@ -20,7 +20,7 @@ Passionate about building ideas into real, working systems—making data and mod
 - KOTRA Sydney (23.11 ~ 24.01)
   - Conducted **global market research** and digital business analysis  
   - Supported data-driven decision-making for overseas business projects  
-- LotteInnovate (24.09 ~) - ~~
+- LotteInnovate (24.09 ~)
   - AI Consultant & PM for **Generative AI / AI Agent** Solutions
   - Designing LLM, Vision, and RAG-based AI Projects across retail, construction, and service domains  
 
@@ -44,5 +44,5 @@ Passionate about building ideas into real, working systems—making data and mod
 
 <!--
  **rootofdata/rootofdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
